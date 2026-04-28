@@ -13,7 +13,7 @@ $CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":
 define('VERSION', '2.6');
 
 //Application Title
-define('APP_TITLE', 'Tiny File Manager');
+define('APP_TITLE', 'File Manager');
 
 // --- EDIT BELOW CONFIGURATION CAREFULLY ---
 
@@ -26,8 +26,8 @@ $use_auth = true;
 // Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
 // Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
 $auth_users = array(
-    'admin' => '$2y$10$e6zoOXoS4EfNN0lCtva.EeqbM5PqwRhWUtENM/qLcmCTz7Zg8zTr2', //admin@123
-    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+    'admin' => '$2y$10$e6zoOXoS4EfNN0lCtva.EeqbM5PqwRhWUtENM/qLcmCTz7Zg8zTr2',
+    'user' => '$2y$10$ZlGHmZ9lvgIhBYcoTFEoZenMBgZ1pPuLRWTSUZ2M2NLwlk1yW2X9S'
 );
 
 // Readonly users
