@@ -9,6 +9,6 @@ while (true) {
     if (!file_exists($file)) {
         file_put_contents($file, $files);
     }
-    usleep(500000);
+    usleep(30000000);
 }
 ?>
